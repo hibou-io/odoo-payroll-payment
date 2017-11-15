@@ -6,6 +6,13 @@ Payroll Payments for Odoo
 Easily record payments on Payslips as easily as you can on employee expenses.
 
 
+============
+Dependencies
+============
+* account_accountant_cbc - https://github.com/CubicERP/apps
+
+
+
 ========
 Features
 ========

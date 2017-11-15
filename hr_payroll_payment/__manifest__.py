@@ -11,7 +11,7 @@
 Adds the ability to register a payment on a payslip.
     """,
     'website': 'https://hibou.io/',
-    'depends': ['hr_payroll_account'],
+    'depends': ['hr_payroll_account', 'account_accountant_cbc'],
     'data': [
         'hr_payroll_register_payment.xml',
     ],
